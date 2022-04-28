@@ -1,0 +1,2 @@
+# ZKU_BACKGROUND_ASSIGNMENT
+BACKGROUND ASSIGNMENT FOR ZKU HARMONY  ONE consisting of HelloWorld.sol and  Amended_Ballot.sol
